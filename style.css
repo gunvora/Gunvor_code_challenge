@@ -1,0 +1,49 @@
+html {
+  background-color: #DCDCDC;
+}
+
+body {
+  width: 600px;
+  margin: 20px 40px;
+  background-color: #F0E68C;
+  padding: 20px 20px 20px 20px;
+  border: 2px solid black;
+}
+
+h1 {
+  color: #191970;
+  font-size: 40px;
+  text-align: center;
+  margin: 100px 20px 20px 20px;
+  text-shadow: 2px 1px 1px #1E90FF;
+}
+
+img {
+  width: 600px;
+  padding: 0  0 20px 0 ;
+}
+
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 80px;
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+}
+
+input {
+  display: inline-block;
+  float: left;
+  background-color: #FAFAD2;
+}
+
+button {
+    display: inline-block;
+    float: left;
+    clear: left;
+    background-color: #FAFAD2;
+    color: #black;
+    margin: 20px 20px 0 0;
+}
